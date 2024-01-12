@@ -4,7 +4,7 @@
 -  💼 Currently working as a data scientist in the [GRIN Research Group](https://idibell.cat/es/investigacion/area-de-medicina-traslacional/programa-de-sistema-digestivo-diagnostic-farmacogenetica-enfermeria-y-prevencion-clinica/enfermeria/) at IDIBELL (nurses who work in research, that's pretty dope!)
 -  💻 I also collaborate with the [CoDaS Lab](https://codas.ugr.es) at the University of Granada (super cool people, you should check what these guys do!!)
 -  🌱 I really love plants, genetics and bioinformatics!!
--  🤔 Learning to code better in R, biostatistics and database management
+-  🤔 Learning to code better in R, biostatistics and database management with SQL
 -  📫 Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/oliver-polushkina-7979991ba/) or at oliverpm327[at]gmail[dot]com
 
 <!--
