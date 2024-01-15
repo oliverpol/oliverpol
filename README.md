@@ -1,4 +1,4 @@
-### Welcome
+### Welcome!!
 -  💬 My name is Oliver (he/they), I'm a very junior bioinformatician from Almería, but I'm currently living in Barcelona
 -  🎓 BSc in Biotechnology (UAL), MSc in Genetics and Evolution (UGR) and MSc in Advanced Chemistry Laboratory (UAL)
 -  💼 Currently working as a data scientist in the [GRIN Research Group](https://idibell.cat/es/investigacion/area-de-medicina-traslacional/programa-de-sistema-digestivo-diagnostic-farmacogenetica-enfermeria-y-prevencion-clinica/enfermeria/) at IDIBELL (nurses who work in research, that's pretty dope!)
