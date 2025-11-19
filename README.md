@@ -1,8 +1,8 @@
 ### Welcome!!
 -  💬 My name is Oliver (he/they), I'm a junior data scientist from Almería, but I'm currently living in Barcelona
--  🎓 BSc in Biotechnology (UAL), MSc in Genetics and Evolution (UGR) and MSc in Advanced Chemistry Laboratory (UAL)
+-  🎓 BSc in Biotechnology (UAL), MSc in Genetics and Evolution (UGR) and MSc in Advanced Chemistry Laboratory (UAL), currently studying a postgrad in Bioinformatic Analysis (UPO)
 -  🤔 Currently in a MSc of Bioinformatics Analysis (UPO) and learning SQL and PowerBI
--  💼 I worked as a biostatistician in the [GRIN Research Group](https://idibell.cat/es/investigacion/area-de-medicina-traslacional/programa-de-sistema-digestivo-diagnostic-farmacogenetica-enfermeria-y-prevencion-clinica/enfermeria/) at IDIBELL (nurses who work in research, that's pretty dope!)
+-  💼 I worked as a data scientist and biostatistician in the [GRIN Research Group](https://idibell.cat/es/investigacion/area-de-medicina-traslacional/programa-de-sistema-digestivo-diagnostic-farmacogenetica-enfermeria-y-prevencion-clinica/enfermeria/) at IDIBELL (nurses who work in research, that's pretty dope!)
 -  💻 I also collaborate with the [CoDaS Lab](https://codas.ugr.es) at the University of Granada (super cool people, you should check what these guys do!!)
 -  🌱 I really love plants, genetics and bioinformatics!!
 -  📫 Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/oliver-polushkina-7979991ba/) or at oliverpm327[at]gmail[dot]com
