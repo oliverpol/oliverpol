@@ -26,13 +26,11 @@ I turn complex, high-dimensional health data into reproducible analyses and clea
   <img width="800" alt="Steam dashboard" src="https://github.com/user-attachments/assets/a0e02106-8c29-44a0-a67d-4d0de4c8014a" />
 </a>
 
-Interactive dashboard exploring [pregunta que responde, p. ej. "which factors are associated with a game's success on Steam"].
-
 - **Data:** [Steam Web API and Steam Store API]
 - **Pipeline:** data cleaning and transformation in [Python/SQL], data model and DAX measures in Power BI
 - **Tools:** Python, SQL, Power BI
 
-👉 [Open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzk4YjA5MzktYzk4ZS00ZGU0LTgwNTktNGZlOWVmMzY3ODM1IiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9)
+👉 [Open the interactive dashboard here!](https://app.powerbi.com/view?r=eyJrIjoiNzk4YjA5MzktYzk4ZS00ZGU0LTgwNTktNGZlOWVmMzY3ODM1IiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9)
 
 ## 📚 Selected publications
 
