@@ -4,7 +4,7 @@
 
 I turn complex, high-dimensional health data into reproducible analyses and clear insights for clinicians and researchers. I currently work at the **Institut Català d'Oncologia (ICO)** on prospective cohort data in haematological cancers, and previously at **IDIBELL** (hospital outcomes, WOMICS project) and the **University of Granada** (omics and microbiome, BioSOMAH).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliverpolushkina-7979991ba/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-polushkina-7979991ba/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oliverpm327@gmail.com)
 
 ## 🧰 Tech stack
@@ -26,8 +26,8 @@ I turn complex, high-dimensional health data into reproducible analyses and clea
   <img width="800" alt="Steam dashboard" src="https://github.com/user-attachments/assets/a0e02106-8c29-44a0-a67d-4d0de4c8014a" />
 </a>
 
-- **Data:** [Steam Web API and Steam Store API]
-- **Pipeline:** data cleaning and transformation in [Python/SQL], data model and DAX measures in Power BI
+- **Data:** Steam Web API and Steam Store API
+- **Pipeline:** data extraction in Python, data cleaning and transformation in SQL, data model and DAX measures in Power BI
 - **Tools:** Python, SQL, Power BI
 
 👉 [Open the interactive dashboard here!](https://app.powerbi.com/view?r=eyJrIjoiNzk4YjA5MzktYzk4ZS00ZGU0LTgwNTktNGZlOWVmMzY3ODM1IiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9)
