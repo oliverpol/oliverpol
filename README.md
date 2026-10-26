@@ -7,8 +7,8 @@
 
 ## Dashboard
 
-[![Dashboard Steam](images/dashboard_steam.png)](https://app.powerbi.com/view?r=eyJrIjoiNzk4YjA5MzktYzk4ZS00ZGU0LTgwNTktNGZlOWVmMzY3ODM1IiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9)
+[![Dashboard Steam](<img width="1392" height="774" alt="image" src="https://github.com/user-attachments/assets/a0e02106-8c29-44a0-a67d-4d0de4c8014a" />)](https://app.powerbi.com/view?r=eyJrIjoiNzk4YjA5MzktYzk4ZS00ZGU0LTgwNTktNGZlOWVmMzY3ODM1IiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9)
 
 👉 [Abrir dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiNzk4YjA5MzktYzk4ZS00ZGU0LTgwNTktNGZlOWVmMzY3ODM1IiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9)
-<img width="1392" height="774" alt="image" src="https://github.com/user-attachments/assets/a0e02106-8c29-44a0-a67d-4d0de4c8014a" />
+
 
