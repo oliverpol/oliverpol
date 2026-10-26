@@ -32,7 +32,7 @@ Interactive dashboard exploring [pregunta que responde, p. ej. "which factors ar
 - **Pipeline:** data cleaning and transformation in [Python/SQL], data model and DAX measures in Power BI
 - **Tools:** Python, SQL, Power BI
 
-👉 [Open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzk4YjA5MzktYzk4ZS00ZGU0LTgwNTktNGZlOWVmMzY3ODM1IiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9) · [Code](LINK_AL_REPO)
+👉 [Open the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzk4YjA5MzktYzk4ZS00ZGU0LTgwNTktNGZlOWVmMzY3ODM1IiwidCI6IjNiOTQyN2RjLWQzMGUtNDNiYy04YzA2LWZmNzI1MzY3NmZlYyIsImMiOjh9)
 
 ## 📚 Selected publications
 
